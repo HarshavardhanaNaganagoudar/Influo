@@ -168,9 +168,9 @@ Generated AI Influencer Video
 
 # Screenshots
 
-## Upload Interface
+## Application Interface
 
-*Add screenshot here*
+![Application UI](docs/influo_screen.png)
 
 ## Generated Prompt
 
