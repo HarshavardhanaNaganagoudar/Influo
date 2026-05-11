@@ -183,8 +183,8 @@ Hyper-realistic vertical YouTube Shorts style video of an energetic female runne
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/influo.git
-cd influo
+git clone https://github.com/HarshavardhanaNaganagoudar/Influo.git
+cd Influo
 ```
 
 ---
